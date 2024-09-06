@@ -12,7 +12,7 @@ Create a dynamic, responsive website using modern web technologies. Employ JavaS
 2. Install dependencies: `npm install`
 
 **Usage:**
-To start the project, run: `npm start`
+To start the project, run: `npm start or npm run dev`
 
 **Contributing:**
 Feel free to contribute by opening issues or submitting pull requests.
