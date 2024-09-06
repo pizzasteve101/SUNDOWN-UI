@@ -3,9 +3,6 @@
 **Description:**
 Create a dynamic, responsive website using modern web technologies. Employ JavaScript, CSS, and HTML to build a versatile platform with various features, including product design elements for future projects. Incorporate smooth animations using libraries like GSAP and Framer Motion, and enhance user experience with Swiper for interactive sliders.
 
-**Features:**
-* Uses smooth scrolling
-* easy to use
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/pizzasteve101/SUNDOWN-UI.git`
